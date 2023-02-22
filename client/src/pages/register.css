@@ -1,0 +1,47 @@
+.brand{
+    margin: auto;
+    border: 1px solid white;
+    width: 450px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: teal;
+}
+#formr>input{
+    margin: auto;
+    width:100%;
+    margin-bottom:20px;
+    height: 50px;
+    border: white;
+  
+    border-radius: 5px;
+}
+#formr>button {
+            margin: auto;
+            width: 100%;
+            height: 50px;
+            margin-bottom: 20px;
+          background-color: aquamarine;
+        border: white;
+        color: white;
+        border-radius: 15px;
+        font-size: 20px;
+        font-weight: bold;
+}
+#formr>button:hover{
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+}
+#chatapp{
+text-align: center;
+   color: teal; 
+}
+#backgrd{
+   background-color: azure;
+   height: 1000px;
+}
+#chatap{
+    color: white;
+    text-align: center;
+}
